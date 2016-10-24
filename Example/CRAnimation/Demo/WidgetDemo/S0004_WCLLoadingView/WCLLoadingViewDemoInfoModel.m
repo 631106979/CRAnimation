@@ -49,8 +49,8 @@
     authorInfo.realName = @"";
     authorInfo.nickName = @"WCL";
     authorInfo.mail     = @"wangchonhlei93@icloud.com";
-    authorInfo.qq       = @"";
-    authorInfo.homePage = @"";
+    authorInfo.qq       = @"631106979";
+    authorInfo.homePage = @"http://imwcl.com";
     authorInfo.professionType = kProfessionTypeiOSDeveloper;
     
     return authorInfo;
